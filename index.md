@@ -1,11 +1,34 @@
 ---
 layout: page
-title: About
+title: Mission Statement
 tagline: computing...
 ---
 {% include JB/setup %}
 
+<style>
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:260px;
+    width:205px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:400px;
+    float:left;
+    padding:10px; 
+}
+</style>
+
+<div id="nav">
+<img src="imgs/a.jpg" alt="alt text" style="width:200px;"/>
+</div>
+
+<div id="section">
 This portfolio will document some of my programming projects. I am currently a graduate student working toward a PhD in Bioinformatics and Computational Biology at Iowa State University. I expect to graduate Winter of 2015.
+
+</div>
 
 ## Downloading publically available scripts
 
