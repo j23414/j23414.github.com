@@ -3,8 +3,8 @@
 }
 .resizable {
 	display: block;
-	width: 640px;
-	height: 480px;
+	width: 540px;
+	height: 380px;
 	padding: 30px;
 	border: 2px solid gray;
 	overflow: hidden;
