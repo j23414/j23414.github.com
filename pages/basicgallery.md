@@ -14,7 +14,7 @@ $(function(){
 </script>
 
 <h1>Fade In, Fade Out Gallery</h1>
-<div class="fadein" style=" position:relative; width:700px; height:410px;">
+<div class="fadein" style=" position:relative; width:650px; height:410px;">
       <img src="images/banner1.jpg" style="position:absolute; left:0; top:0;">
       <img src="images/banner2.jpg" style="position:absolute; left:0; top:0;">
       <img src="images/banner3.jpg" style="position:absolute; left:0; top:0;">
