@@ -33,9 +33,9 @@ This portfolio will document some of my programming projects, of which many have
 <br/>
 </p>
 
-## Downloading publiclly available scripts
+## Important links
 
-I try to make scripts publically available to help other bioinformaticians. [My GitHub Site](https://github.com/j23414) Please remember to cite me if any of the scripts are useful in your research.
+[My GitHub Site](https://github.com/j23414) <br/>Please remember to acknowledge me if any of the scripts are useful in your research.
 
     $ git clone "https://github.com/j23414/Exon-Junction-Arches.git"
 
