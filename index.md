@@ -26,9 +26,12 @@ tagline: computing...
 </div>
 
 <div id="section">
-This portfolio will document some of my programming projects, of which many have required cups and cups of coffee. I am currently a graduate student working toward a PhD in Bioinformatics and Computational Biology at Iowa State University. I've been programming (in one language or another) for nearly ten years and am interested in writing practical and intuitive tools for data analysis and visualization. I hope to graduate <strike style='color:red'>Summer 2015</strike> <strike style='color:red'>Winter 2015</strike> someday...
-
+This portfolio will document some of my programming projects, of which many have required cups and cups of coffee. I am currently a graduate student working toward a PhD in Bioinformatics and Computational Biology at Iowa State University. I've been programming (in one language or another) for nearly ten years and am interested in writing practical and intuitive tools for data analysis and visualization.
 </div>
+
+
+<!-- I hope to graduate <strike style='color:red'>Summer 2015</strike> <strike style='color:red'>Winter 2015</strike> someday...-->
+
 <p>
 <br/>
 </p>
