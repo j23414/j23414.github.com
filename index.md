@@ -38,15 +38,14 @@ This portfolio will document some of my programming projects, of which many have
 
 ## Important links
 
-[GitHub](https://github.com/j23414) | [GitHub](https://github.com/j23414) 
-
-    $ git clone "https://github.com/j23414/Exon-Junction-Arches.git"
+[GitHub](https://github.com/j23414) | [LinkedIn](https://www.linkedin.com/in/jenchang212) | [Download Mango](http://www.complex.iastate.edu/download/Mango/index.html) | [Mango User Guide](https://www.gitbook.com/book/j23414/mango-user-guide/details)
 
     
 ## Programming Languages and Libraries
 
- C++ | wxWidgets | OpenGL | Java | R | Matlab | LaTeX | Perl | Python
+ C++ | wxWidgets | OpenGL | Java | R | Matlab | LaTeX | Perl | Python | Ruby 
 
+<!--
 ## Recent Posts
 
 <ul class="posts">
@@ -54,3 +53,4 @@ This portfolio will document some of my programming projects, of which many have
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+-->
