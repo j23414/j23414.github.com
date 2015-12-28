@@ -34,6 +34,8 @@ This portfolio will document some of my programming projects, of which many have
 
 <p>
 <br/>
+<br/>
+<br/>
 </p>
 
 ## Important links
