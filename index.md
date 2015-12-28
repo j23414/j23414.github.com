@@ -38,12 +38,12 @@ This portfolio will document some of my programming projects, of which many have
 
 ## Important links
 
-[GitHub](https://github.com/j23414) | [LinkedIn](https://www.linkedin.com/in/jenchang212) | [Download Mango](http://www.complex.iastate.edu/download/Mango/index.html) | [Mango User Guide](https://www.gitbook.com/book/j23414/mango-user-guide/details)
+[GitHub](https://github.com/j23414) \| [LinkedIn](https://www.linkedin.com/in/jenchang212) \| [Download Mango](http://www.complex.iastate.edu/download/Mango/index.html) \| [Mango User Guide](https://www.gitbook.com/book/j23414/mango-user-guide/details)
 
     
 ## Programming Languages and Libraries
 
- C++ | wxWidgets | OpenGL | Java | R | Matlab | LaTeX | Perl | Python | Ruby 
+ C++ \| wxWidgets \| OpenGL \| Java \| R \| Matlab \| LaTeX \| Perl \| Python \| Ruby 
 
 <!--
 ## Recent Posts
