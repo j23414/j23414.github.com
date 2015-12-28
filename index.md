@@ -38,11 +38,15 @@ This portfolio will document some of my programming projects, of which many have
 
 ## Important links
 
-[My GitHub Site](https://github.com/j23414) <br/>Please remember to acknowledge me if any of the scripts are useful in your research.
+[GitHub](https://github.com/j23414) | [GitHub](https://github.com/j23414) 
 
     $ git clone "https://github.com/j23414/Exon-Junction-Arches.git"
 
     
+## Programming Languages and Libraries
+
+ C++ | wxWidgets | OpenGL | Java | R | Matlab | LaTeX | Perl | Python
+
 ## Recent Posts
 
 <ul class="posts">
@@ -50,16 +54,3 @@ This portfolio will document some of my programming projects, of which many have
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## Programming Languages and Libraries
-
-* C++
-* wxWidgets
-* OpenGL
-* Java
-* R
-* Matlab
-* LaTeX
-* Perl
-* Python
-
