@@ -1,4 +1,5 @@
-[Live site](http://j23414.github.io)
+# Programming Portfolio
+[Click me to go to live site](http://j23414.github.io)
 
 <!--
 # Jekyll-Bootstrap
