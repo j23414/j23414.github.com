@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mission Statement
+title: Jennifer Chang
 tagline: computing...
 ---
 {% include JB/setup %}
@@ -26,7 +26,7 @@ tagline: computing...
 </div>
 
 <div id="section">
-This portfolio will document some of my programming projects, of which many have required cups and cups of coffee. I am currently a graduate student working toward a PhD in Bioinformatics and Computational Biology at Iowa State University. I've been programming (in one language or another) for nearly ten years and am interested in writing practical and intuitive tools for data analysis and visualization.
+This portfolio links to some of my programming projects, of which many have required cups and cups of coffee. I am currently a graduate student working toward a PhD in Bioinformatics and Computational Biology at Iowa State University. I've been programming (in one language or another) for nearly ten years and am interested in writing practical and intuitive tools for data analysis and visualization.
 </div>
 
 
