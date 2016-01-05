@@ -56,8 +56,3 @@ This portfolio links to some of my programming projects, of which many have requ
   {% endfor %}
 </ul>
 -->
-
-```
-example code block
-foreach node in graph set _id=atr;
-```
