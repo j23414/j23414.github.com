@@ -40,7 +40,7 @@ This portfolio links to some of my programming projects, of which many have requ
 
 ## Links
 
-[GitHub](https://github.com/j23414) &#124; [LinkedIn](https://www.linkedin.com/in/jenchang212) &#124; [Download Mango](http://www.complex.iastate.edu/download/Mango/index.html) &#124; [Mango User Guide](https://www.gitbook.com/book/j23414/mango-user-guide/details)
+[GitHub](https://github.com/j23414) &#124; [LinkedIn](https://www.linkedin.com/in/jenchang212) &#124; [Download Mango](http://www.complex.iastate.edu/download/Mango/index.html) &#124; [Mango User Guide](https://www.gitbook.com/book/j23414/mango-user-guide/details) &#124; [My Startup](https://www.complexcomputation.com/en)
 
     
 ## Skills
