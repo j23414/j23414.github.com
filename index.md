@@ -26,7 +26,7 @@ tagline: computing...
 </div>
 
 <div id="section">
-This portfolio links to some of my programming projects, of which many have required cups and cups of coffee. I am currently a graduate student working toward a PhD in Bioinformatics and Computational Biology at Iowa State University. I've been programming (in one language or another) for nearly ten years and am interested in writing practical and intuitive tools for data analysis and visualization.
+This portfolio links to some of my programming projects, of which many have required cups and cups of coffee. I have a PhD in Bioinformatics and Computational Biology from Iowa State University. I have been programming (in one language or another) since 2006 and I am interested in writing practical and intuitive tools for data analysis and visualization. My specialization is network analysis and my PhD Project, the Mango Graph Studio software, has been licensed to a startup.
 </div>
 
 
@@ -45,7 +45,7 @@ This portfolio links to some of my programming projects, of which many have requ
     
 ## Skills
 
- C++ &#124; wxWidgets &#124; OpenGL &#124; Java &#124; R &#124; Matlab &#124; LaTeX &#124; Perl &#124; Python  &#124; Ruby 
+ C++ &#124; wxWidgets &#124; OpenGL &#124; Java &#124; R &#124; Matlab &#124; LaTeX &#124; Perl &#124; Python 
 
 <!--
 ## Recent Posts
