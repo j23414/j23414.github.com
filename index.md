@@ -56,3 +56,8 @@ This portfolio links to some of my programming projects, of which many have requ
   {% endfor %}
 </ul>
 -->
+
+## Recent Publications
+
+* Anderson TK, Chang J, Arendsee ZW, Venkatesh D, Souza CK, Kimble JB, Lewis NS, Davis CT, Vincent AL. [Swine Influenza A Viruses and the Tangled Relationship with Humans](http://perspectivesinmedicine.cshlp.org/content/early/2020/01/27/cshperspect.a038737.full.pdf+html). Cold Spring Harbor Perspectives in Medicine. 2020 Jan 27:a038737.
+* Chang J, Anderson TK, Zeller MA, Gauger PC, Vincent AL. [octoFLU: Automated Classification for the Evolutionary Origin of Influenza A Virus Gene Sequences Detected in US Swine.](https://mra.asm.org/content/8/32/e00673-19.abstract) Microbiology resource announcements. 2019 Aug 8;8(32):e00673-19.
