@@ -34,12 +34,6 @@ Jennifer Chang grew up in northern Wisconsin and has been programming (in one la
 
 <!-- This portfolio links to some of my programming projects, of which many have required cups and cups of coffee. I have a PhD in Bioinformatics and Computational Biology from Iowa State University. I grew up in northern Wisconsin and have been programming (in one language or another) since 2006. I am interested in writing practical and intuitive tools for data analysis and visualization. My specialization is network analysis and my PhD Project, the Mango Graph Studio software, has been licensed to a startup. I am currently working as an ORISE Postdoctoral Fellow at USDA-ARS on Influenza A viruses. -->
 
-<p>
-<br/>
-<br/>
-<br/>
-</p>
-
 ## Links
 
 [GitHub](https://github.com/j23414) &#124; [LinkedIn](https://www.linkedin.com/in/jenchang212) &#124; [Download Mango](http://www.complex.iastate.edu/download/Mango/index.html) &#124; [Mango User Guide](https://www.gitbook.com/book/j23414/mango-user-guide/details) &#124; [Startup Experience](https://www.complexcomputation.com/en)
@@ -61,8 +55,26 @@ Jennifer Chang grew up in northern Wisconsin and has been programming (in one la
 
 ## Recent Publications
 
-* Anderson TK, **Chang J**, Arendsee ZW, Venkatesh D, Souza CK, Kimble JB, Lewis NS, Davis CT, Vincent AL. [Swine Influenza A Viruses and the Tangled Relationship with Humans](http://perspectivesinmedicine.cshlp.org/content/early/2020/01/27/cshperspect.a038737). Cold Spring Harbor Perspectives in Medicine. 2020 Jan 27:a038737.
-* **Chang J**, Anderson TK, Zeller MA, Gauger PC, Vincent AL. [octoFLU: Automated Classification for the Evolutionary Origin of Influenza A Virus Gene Sequences Detected in US Swine.](https://mra.asm.org/content/8/32/e00673-19.abstract) Microbiology resource announcements. 2019 Aug 8;8(32):e00673-19.
-* Duwell MM, Blythe D, Radebaugh MW, Kough EM, Bachaus B, Crum DA, Perkins Jr KA, Blanton L, Davis CT, Jang Y, Vincent A, **Chang J**, Abney A, Gudmundson L, Brewster M, Polsky L, Rose D, Feldman K. [Influenza A (H3N2) variant virus outbreak at three fairs—Maryland, 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6290816/) Morbidity and Mortality Weekly Report. 2018 Oct 26;67(42):1169.
-* **Chang J**, Chou HH. [Cavatica: A pipeline for identifying author adoption trends among software or methods.](https://ieeexplore.ieee.org/abstract/document/8217990) In2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2017 Nov 13 (pp. 2145-2150). IEEE.
-* **Chang J**, Cho H, Chou HH. [Mango: combining and analyzing heterogeneous biological networks.](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0105-5) BioData mining. 2016 Dec;9(1):25.
+**2020**
+
+* Zeller MA, **Chang J**, Vincent AL, Gauger PC, Anderson TK. <a href="https://www.biorxiv.org/content/10.1101/2020.05.29.123828v1.abstract" target="_blank">Coordinated evolution between N2 neuraminidase and H1 and H3 hemagglutinin genes increased influenza A virus genetic diversity in swine.</a> 2020 bioRxiv.
+
+* Kaplan BS, Kimble JB, **Chang J**, Anderson TK, Gauger PC, Janas-Martindale A, Killian ML, Bowman AS, Vincent AL. <a href="https://pubmed.ncbi.nlm.nih.gov/32522849/" target="_blank">Aerosol transmission from infected swine to ferrets of an H3N2 virus collected from an agricultural fair and associated with human variant infections.</a> 2020 Journal of Virology, 94(16).
+
+* Anderson TK, **Chang J**, Arendsee ZW, Venkatesh D, Souza CK, Kimble JB, Lewis NS, Davis CT, Vincent AL. <a href="http://perspectivesinmedicine.cshlp.org/content/early/2020/01/27/cshperspect.a038737" target="_blank">Swine Influenza A Viruses and the Tangled Relationship with Humans</a>. Cold Spring Harbor Perspectives in Medicine. 2020 Jan 27:a038737.
+
+**2019**
+
+* **Chang J**, Anderson TK, Zeller MA, Gauger PC, Vincent AL. <a href="https://mra.asm.org/content/8/32/e00673-19.abstract" target="_blank">octoFLU: Automated Classification for the Evolutionary Origin of Influenza A Virus Gene Sequences Detected in US Swine.</a> Microbiology resource announcements. 2019 Aug 8;8(32):e00673-19.
+
+**2018**
+
+* Duwell MM, Blythe D, Radebaugh MW, Kough EM, Bachaus B, Crum DA, Perkins Jr KA, Blanton L, Davis CT, Jang Y, Vincent A, **Chang J**, Abney A, Gudmundson L, Brewster M, Polsky L, Rose D, Feldman K. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6290816/" target="_blank">Influenza A (H3N2) variant virus outbreak at three fairs—Maryland, 2017.</a> Morbidity and Mortality Weekly Report. 2018 Oct 26;67(42):1169.
+
+**2017**
+
+* **Chang J**, Chou HH. <a href="https://ieeexplore.ieee.org/abstract/document/8217990" target="_blank">Cavatica: A pipeline for identifying author adoption trends among software or methods.</a> In 2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2017 Nov 13 (pp. 2145-2150). IEEE.
+
+**2016**
+
+* **Chang J**, Cho H, Chou HH. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0105-5" target="_blank">Mango: combining and analyzing heterogeneous biological networks.</a> BioData mining. 2016 Dec;9(1):25.
