@@ -1,2 +1,0 @@
-node(string productID, string productName, int supplierID, int categoryID, string quantityPerUnit, float unitPrice, int unitsInStock,int unitsOnOrder,int reorderLevel,int discontinued)
-1,Chai,1,1,10 boxes x 20 bags,18.00,39,0,10,0
