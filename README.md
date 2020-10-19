@@ -1,5 +1,16 @@
-# Programming Portfolio
-[Click here to go to live site](http://j23414.github.io)
+## My Programming Portfolio
+
+
+* [Click here to see my live site](http://j23414.github.io)
+
+
+## Notes for your own website
+
+* Roadmap for learning Web Development - [w3schools](https://www.w3schools.com/whatis/default.asp) starts off with the basics of HTML, CSS, and Javascript
+* Other popular frameworks include [Jekyll](https://jekyllrb.com/) and [Hugo](https://gohugo.io/)
+* This page is hosted on GitHub Pages - [pages.github.com](https://pages.github.com/)
+
+
 
 <!--
 # Jekyll-Bootstrap
