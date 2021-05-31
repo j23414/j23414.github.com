@@ -11,6 +11,10 @@
   color: var(--color);
 }
 
+ul {
+  line-height: 1.6;
+}
+
 p {
   line-height: 1.6;
   font-family: sans-serif;
